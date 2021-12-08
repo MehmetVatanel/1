@@ -1,0 +1,32 @@
+*
+ {
+     box-sizing: border-box;
+ }
+
+#container
+{
+    width: 25%;
+    height: auto;
+    border: 1px solid gold;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 2px 2px 2px 2px #5584AC;
+    border-radius: 5PX;
+}
+input
+{
+    width: 100%;
+    height: 40px;
+}
+#btnAdd,#btnRemove
+{
+    background-color: #5584AC;
+    color: white;
+    border: none;
+    width: 100%;
+    height: 40px;
+}
+select
+{
+    width: 100%;
+}
